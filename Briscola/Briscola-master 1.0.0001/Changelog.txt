@@ -1,0 +1,2 @@
+1.0.0001 - Inizio progetto, gestita la creazione e la mescolatura del mazzo 
+

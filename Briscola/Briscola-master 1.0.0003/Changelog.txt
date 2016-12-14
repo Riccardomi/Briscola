@@ -1,0 +1,4 @@
+1.0.0001 - Inizio progetto, gestita la creazione e la mescolatura del mazzo 
+1.0.0002 - Aggiunta e testata una prima forma di classe principale "Briscola" e del metodo setBriscole di classe "Mazzo" che scorre e setta le briscole di tutto il mazzo
+1.0.0003 - Non cambia un cazzo, ho solo provato il tuo compare fra le carte che sembra funzionare di lusso
+
